@@ -1,6 +1,6 @@
 {
     "name": "fql/redisdistributionlock",
-    "description": "lock",
+    "description": "php分布式锁的实现",
     "type": "library",
     "require": {
         "php": ">=7.0",
