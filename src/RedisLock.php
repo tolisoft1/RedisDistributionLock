@@ -1,6 +1,9 @@
 <?php
 namespace fql;
 
+use Predis\Client;
+use Predis\Response\Status;
+
 class RedisLock implements Lock
 {
     /**

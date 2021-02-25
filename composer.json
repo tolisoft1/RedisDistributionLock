@@ -3,7 +3,8 @@
     "description": "lock",
     "type": "library",
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "predis/predis": "v1.1.x-dev"
     },
     "license": "MIT",
     "authors": [
